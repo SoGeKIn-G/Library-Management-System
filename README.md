@@ -1,6 +1,6 @@
 
 ## Download Jar Files Here , Click [Here](https://github.com/SoGeKIn-G/Library-Management-System/tree/main/jars).
-## See project ScreenShots - [Here](https://github.com/SoGeKIn-G/Library-Management-System/tree/main/ScreenShots).
+## See Project ScreenShots - [Here](https://github.com/SoGeKIn-G/Library-Management-System/tree/main/ScreenShots).
 
 <!-- ============================================  FEATURES ======================================================  -->
 ## Features
